@@ -1,6 +1,7 @@
 #########################################
-# CSV file
+# CSV file, xlsx
 *.csv
+*.xlsx
 
 # Editor temporary/working/backup files #
 .#*
